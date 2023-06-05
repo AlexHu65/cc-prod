@@ -4,4 +4,4 @@ laravel/server.php
 laravel/phpunit.xml
 laravel/webpack.mix.js
 laravel/.env
-laravel/venddor
+laravel/vendor
