@@ -1,0 +1,1104 @@
+
+@media only screen and (max-width: 1024px){
+
+}
+
+@media only screen and (max-width: 768px){
+    .mov{display:block !important;}
+    .desk{display: none !important;}
+    .social-content{background: #fff;
+        -webkit-transform: translateY(-80px);
+        transform: translateY(-40px);
+        padding: 10px 16px;
+        width: 100% !important;
+        display: flex;}
+
+        .content-bio{
+            padding: 10px !important;
+        }
+
+        .left-overlay{
+            left: 0px !important;
+        }
+
+        .pl-5 ,.pr-5{
+            padding: 0px !important;
+        }
+
+        .p-5 {
+            padding: 2rem!important;
+        }
+
+        .social-content .custom{
+            display: inline-flex !important;
+        }
+
+        .modal-content {
+            background: url(../images/bg_pop.png);
+            height: 250px;
+            background-size: contain;
+            background-position: center;
+            background-repeat: no-repeat;
+            border: none;
+        }
+
+        .modal-footer{
+            border: none !important;
+        }
+#contentContacto{
+display: flex;
+flex-direction: column-reverse;
+}
+
+.custom-about{
+font-size: 15px !important;
+}
+
+.custom-title{
+text-align: center !important;
+}
+
+.buttons-subject button {
+    width: 100% !important;
+    margin: 10px auto !important;
+}
+
+}
+
+@media only screen and (max-width: 479px){
+    .mov{display:block !important;}
+    .desk{display: none !important;}
+    .social-content{background: #fff;
+        -webkit-transform: translateY(-80px);
+        transform: translateY(-40px);
+        padding: 10px 16px;
+        width: 100% !important;
+        display: flex;}
+
+        .content-bio{
+            padding: 10px !important;
+        }
+
+        .left-overlay{
+            left: 0px !important;
+        }
+
+        .pl-5 ,.pr-5{
+            padding: 0px !important;
+        }
+
+        .p-5 {
+            padding: 2rem!important;
+        }
+
+        .social-content .custom{
+            display: inline-flex !important;
+        }
+
+        .modal-content {
+            background: url(../images/bg_pop.png);
+            height: 250px;
+            background-size: contain;
+            background-position: center;
+            background-repeat: no-repeat;
+            border: none;
+        }
+
+        .modal-footer{
+            border: none !important;
+        }
+
+#contentContacto{
+display: flex;
+flex-direction: column-reverse;
+}
+
+.custom-about{
+font-size: 15px !important;
+}
+
+.custom-title{
+text-align: center !important;
+}
+
+.buttons-subject button {
+    width: 100% !important;
+    margin: 10px auto !important;
+}
+
+}
+
+@media only screen and (max-width: 425px){
+    .mov{display:block !important;}
+    .desk{display: none !important;}
+    .social-content{background: #fff;
+        -webkit-transform: translateY(-80px);
+        transform: translateY(-40px);
+        padding: 10px 16px;
+        width: 100% !important;
+        display: flex;}
+
+        .content-bio{
+            padding: 10px !important;
+        }
+
+        .left-overlay{
+            left: 0px !important;
+        }
+
+        .pl-5 ,.pr-5{
+            padding: 0px !important;
+        }
+
+        .p-5 {
+            padding: 2rem!important;
+        }
+
+        .social-content .custom{
+            display: inline-flex !important;
+        }
+
+        .modal-content {
+            background: url(../images/bg_pop.png);
+            height: 250px;
+            background-size: contain;
+            background-position: center;
+            background-repeat: no-repeat;
+            border: none;
+        }
+
+        .modal-footer{
+            border: none !important;
+        }
+
+#contentContacto{
+display: flex;
+flex-direction: column-reverse;
+}
+
+.custom-about{
+font-size: 15px !important;
+}
+
+.custom-title{
+text-align: center !important;
+}
+
+.buttons-subject button {
+    width: 100% !important;
+    margin: 10px auto !important;
+}
+
+}
+
+@media only screen and (max-width: 375px){
+    .mov{display:block !important;}
+    .desk{display: none !important;}
+    .social-content{background: #fff;
+        -webkit-transform: translateY(-80px);
+        transform: translateY(-40px);
+        padding: 10px 16px;
+        width: 100% !important;
+        display: flex;}
+
+        .content-bio{
+            padding: 10px !important;
+        }
+
+        .left-overlay{
+            left: 0px !important;
+        }
+
+        .pl-5 ,.pr-5{
+            padding: 0px !important;
+        }
+
+        .p-5 {
+            padding: 2rem!important;
+        }
+
+        .social-content .custom{
+            display: inline-flex !important;
+        }
+
+        .modal-content {
+            background: url(../images/bg_pop.png);
+            height: 250px;
+            background-size: contain;
+            background-position: center;
+            background-repeat: no-repeat;
+            border: none;
+        }
+
+        .modal-footer{
+            border: none !important;
+        }
+
+#contentContacto{
+display: flex;
+flex-direction: column-reverse;
+}
+
+.custom-about{
+font-size: 15px !important;
+}
+
+.custom-title{
+text-align: center !important;
+}
+
+.buttons-subject button {
+    width: 100% !important;
+    margin: 10px auto !important;
+}
+
+}
+
+@media only screen and (max-width: 320px){
+    .mov{display:block !important;}
+    .desk{display: none !important;}
+    .social-content{background: #fff;
+        -webkit-transform: translateY(-80px);
+        transform: translateY(-40px);
+        padding: 10px 16px;
+        width: 100% !important;
+        display: flex;}
+
+        .content-bio{
+            padding: 10px !important;
+        }
+
+        .left-overlay{
+            left: 0px !important;
+        }
+
+        .pl-5 ,.pr-5{
+            padding: 0px !important;
+        }
+
+        .p-5 {
+            padding: 2rem!important;
+        }
+
+        .social-content .custom{
+            display: inline-flex !important;
+        }
+
+        .modal-content {
+            background: url(../images/bg_pop.png);
+            height: 250px;
+            background-size: contain;
+            background-position: center;
+            background-repeat: no-repeat;
+            border: none;
+        }
+
+        .modal-footer{
+            border: none !important;
+        }
+
+#contentContacto{
+display: flex;
+flex-direction: column-reverse;
+}
+
+.custom-about{
+font-size: 15px !important;
+}
+
+.custom-title{
+text-align: center !important;
+}
+
+.buttons-subject button {
+    width: 100% !important;
+    margin: 10px auto !important;
+}
+
+}
+/* ----------- iPhone 5, 5S, 5C and 5SE ----------- */
+
+/* Portrait and Landscape */
+@media only screen
+and (min-device-width: 320px)
+and (max-device-width: 568px)
+and (-webkit-min-device-pixel-ratio: 2) {
+
+    .mov{display:block !important;}
+    .desk{display: none !important;}
+    .social-content{background: #fff;
+        -webkit-transform: translateY(-80px);
+        transform: translateY(-40px);
+        padding: 10px 16px;
+        width: 100% !important;
+        display: flex;}
+
+        .content-bio{
+            padding: 10px !important;
+        }
+
+        .left-overlay{
+            left: 0px !important;
+        }
+
+        .pl-5 ,.pr-5{
+            padding: 0px !important;
+        }
+
+        .p-5 {
+            padding: 2rem!important;
+        }
+
+        .social-content .custom{
+            display: inline-flex !important;
+        }
+
+        .modal-content {
+            background: url(../images/bg_pop.png);
+            height: 250px;
+            background-size: contain;
+            background-position: center;
+            background-repeat: no-repeat;
+            border: none;
+        }
+
+        .modal-footer{
+            border: none !important;
+        }
+
+#contentContacto{
+display: flex;
+flex-direction: column-reverse;
+}
+
+.custom-about{
+font-size: 15px !important;
+}
+
+.custom-title{
+text-align: center !important;
+}
+.buttons-subject button {
+    width: 100% !important;
+    margin: 10px auto !important;
+}
+
+
+}
+
+/* Portrait */
+@media only screen
+and (min-device-width: 320px)
+and (max-device-width: 568px)
+and (-webkit-min-device-pixel-ratio: 2)
+and (orientation: portrait) {
+    .mov{display:block !important;}
+    .desk{display: none !important;}
+    .social-content{background: #fff;
+        -webkit-transform: translateY(-80px);
+        transform: translateY(-40px);
+        padding: 10px 16px;
+        width: 100% !important;
+        display: flex;}
+
+        .content-bio{
+            padding: 10px !important;
+        }
+
+        .left-overlay{
+            left: 0px !important;
+        }
+
+        .pl-5 ,.pr-5{
+            padding: 0px !important;
+        }
+
+        .p-5 {
+            padding: 2rem!important;
+        }
+
+        .social-content .custom{
+            display: inline-flex !important;
+        }
+
+        .modal-content {
+            background: url(../images/bg_pop.png);
+            height: 250px;
+            background-size: contain;
+            background-position: center;
+            background-repeat: no-repeat;
+            border: none;
+        }
+
+        .modal-footer{
+            border: none !important;
+        }
+
+#contentContacto{
+display: flex;
+flex-direction: column-reverse;
+}
+
+.custom-about{
+font-size: 15px !important;
+}
+
+.custom-title{
+text-align: center !important;
+}
+.buttons-subject button {
+    width: 100% !important;
+    margin: 10px auto !important;
+}
+
+}
+
+/* Landscape */
+@media only screen
+and (min-device-width: 320px)
+and (max-device-width: 568px)
+and (-webkit-min-device-pixel-ratio: 2)
+and (orientation: landscape) {
+    .mov{display:block !important;}
+    .desk{display: none !important;}
+    .social-content{background: #fff;
+        -webkit-transform: translateY(-80px);
+        transform: translateY(-40px);
+        padding: 10px 16px;
+        width: 100% !important;
+        display: flex;}
+
+        .content-bio{
+            padding: 10px !important;
+        }
+
+        .left-overlay{
+            left: 0px !important;
+        }
+
+        .pl-5 ,.pr-5{
+            padding: 0px !important;
+        }
+
+        .p-5 {
+            padding: 2rem!important;
+        }
+        .social-content .custom{
+            display: inline-flex !important;
+        }
+
+        .modal-content {
+            background: url(../images/bg_pop.png);
+            height: 250px;
+            background-size: contain;
+            background-position: center;
+            background-repeat: no-repeat;
+            border: none;
+        }
+
+        .modal-footer{
+            border: none !important;
+        }
+
+#contentContacto{
+display: flex;
+flex-direction: column-reverse;
+}
+
+.custom-about{
+font-size: 15px !important;
+}
+
+.custom-title{
+text-align: center !important;
+}
+.buttons-subject button {
+    width: 100% !important;
+    margin: 10px auto !important;
+}
+
+}
+
+/* ----------- iPhone 6, 6S, 7 and 8 ----------- */
+
+/* Portrait and Landscape */
+@media only screen (-webkit-min-device-pixel-ratio: 2) {
+    .mov{display:block !important;}
+    .desk{display: none !important;}
+    .social-content{background: #fff;
+        -webkit-transform: translateY(-80px);
+        transform: translateY(-40px);
+        padding: 10px 16px;
+        width: 100% !important;
+        display: flex;}
+
+        .content-bio{
+            padding: 10px !important;
+        }
+
+        .left-overlay{
+            left: 0px !important;
+        }
+
+        .pl-5 ,.pr-5{
+            padding: 0px !important;
+        }
+
+        .p-5 {
+            padding: 2rem!important;
+        }
+
+        .social-content .custom{
+            display: inline-flex !important;
+        }
+
+        .modal-content {
+            background: url(../images/bg_pop.png);
+            height: 250px;
+            background-size: contain;
+            background-position: center;
+            background-repeat: no-repeat;
+            border: none;
+        }
+
+        .modal-footer{
+            border: none !important;
+        }
+
+#contentContacto{
+display: flex;
+flex-direction: column-reverse;
+}
+
+.custom-about{
+font-size: 15px !important;
+}
+
+.custom-title{
+text-align: center !important;
+}
+.buttons-subject button {
+    width: 100% !important;
+    margin: 10px auto !important;
+}
+
+}
+
+/* Portrait */
+@media only screen (-webkit-min-device-pixel-ratio: 2)
+and (orientation: portrait) {
+    .mov{display:block !important;}
+    .desk{display: none !important;}
+    .social-content{background: #fff;
+        -webkit-transform: translateY(-80px);
+        transform: translateY(-40px);
+        padding: 10px 16px;
+        width: 100% !important;
+        display: flex;}
+
+        .content-bio{
+            padding: 10px !important;
+        }
+
+        .left-overlay{
+            left: 0px !important;
+        }
+
+        .pl-5 ,.pr-5{
+            padding: 0px !important;
+        }
+
+        .p-5 {
+            padding: 2rem!important;
+        }
+
+        .social-content .custom{
+            display: inline-flex !important;
+        }
+
+        .modal-content {
+            background: url(../images/bg_pop.png);
+            height: 250px;
+            background-size: contain;
+            background-position: center;
+            background-repeat: no-repeat;
+            border: none;
+        }
+
+        .modal-footer{
+            border: none !important;
+        }
+
+#contentContacto{
+display: flex;
+flex-direction: column-reverse;
+}
+
+.custom-about{
+font-size: 15px !important;
+}
+
+.custom-title{
+text-align: center !important;
+}
+.buttons-subject button {
+    width: 100% !important;
+    margin: 10px auto !important;
+}
+
+}
+
+/* Landscape */
+@media only screen (-webkit-min-device-pixel-ratio: 2)
+and (orientation: landscape) {
+    .mov{display:block !important;}
+    .desk{display: none !important;}
+    .social-content{background: #fff;
+        -webkit-transform: translateY(-80px);
+        transform: translateY(-40px);
+        padding: 10px 16px;
+        width: 100% !important;
+        display: flex;}
+
+        .content-bio{
+            padding: 10px !important;
+        }
+
+        .left-overlay{
+            left: 0px !important;
+        }
+
+        .pl-5 ,.pr-5{
+            padding: 0px !important;
+        }
+
+        .p-5 {
+            padding: 2rem!important;
+        }
+
+        .social-content .custom{
+            display: inline-flex !important;
+        }
+
+        .modal-content {
+            background: url(../images/bg_pop.png);
+            height: 250px;
+            background-size: contain;
+            background-position: center;
+            background-repeat: no-repeat;
+            border: none;
+        }
+
+        .modal-footer{
+            border: none !important;
+        }
+
+#contentContacto{
+display: flex;
+flex-direction: column-reverse;
+}
+
+.custom-about{
+font-size: 15px !important;
+}
+
+.custom-title{
+text-align: center !important;
+}
+.buttons-subject button {
+    width: 100% !important;
+    margin: 10px auto !important;
+}
+
+}
+
+/* ----------- iPhone 6+, 7+ and 8+ ----------- */
+
+/* Portrait and Landscape */
+@media only screen and (-webkit-min-device-pixel-ratio: 3) {
+    .mov{display:block !important;}
+    .desk{display: none !important;}
+    .social-content{background: #fff;
+        -webkit-transform: translateY(-80px);
+        transform: translateY(-40px);
+        padding: 10px 16px;
+        width: 100% !important;
+        display: flex;}
+
+        .content-bio{
+            padding: 10px !important;
+        }
+
+        .left-overlay{
+            left: 0px !important;
+        }
+
+        .pl-5 ,.pr-5{
+            padding: 0px !important;
+        }
+
+        .p-5 {
+            padding: 2rem!important;
+        }
+
+        .social-content .custom{
+            display: inline-flex !important;
+        }
+
+        .modal-content {
+            background: url(../images/bg_pop.png);
+            height: 250px;
+            background-size: contain;
+            background-position: center;
+            background-repeat: no-repeat;
+            border: none;
+        }
+
+        .modal-footer{
+            border: none !important;
+        }
+
+#contentContacto{
+display: flex;
+flex-direction: column-reverse;
+}
+
+.custom-about{
+font-size: 15px !important;
+}
+
+.custom-title{
+text-align: center !important;
+}
+
+.buttons-subject button {
+    width: 100% !important;
+    margin: 10px auto !important;
+}
+
+}
+
+/* Portrait */
+@media only screen and (-webkit-min-device-pixel-ratio: 3)
+and (orientation: portrait) {
+    .mov{display:block !important;}
+    .desk{display: none !important;}
+    .social-content{background: #fff;
+        -webkit-transform: translateY(-80px);
+        transform: translateY(-40px);
+        padding: 10px 16px;
+        width: 100% !important;
+        display: flex;}
+
+        .content-bio{
+            padding: 10px !important;
+        }
+
+        .left-overlay{
+            left: 0px !important;
+        }
+
+        .pl-5 ,.pr-5{
+            padding: 0px !important;
+        }
+
+        .p-5 {
+            padding: 2rem!important;
+        }
+
+        .social-content .custom{
+            display: inline-flex !important;
+        }
+
+        .modal-content {
+            background: url(../images/bg_pop.png);
+            height: 250px;
+            background-size: contain;
+            background-position: center;
+            background-repeat: no-repeat;
+            border: none;
+        }
+
+        .modal-footer{
+            border: none !important;
+        }
+
+#contentContacto{
+display: flex;
+flex-direction: column-reverse;
+}
+
+.custom-about{
+font-size: 15px !important;
+}
+
+.custom-title{
+text-align: center !important;
+}
+
+.buttons-subject button {
+    width: 100% !important;
+    margin: 10px auto !important;
+}
+
+}
+
+/* Landscape */
+@media only screen (-webkit-min-device-pixel-ratio: 3)
+and (orientation: landscape) {
+    .mov{display:block !important;}
+    .desk{display: none !important;}
+    .social-content{background: #fff;
+        -webkit-transform: translateY(-80px);
+        transform: translateY(-40px);
+        padding: 10px 16px;
+        width: 100% !important;
+        display: flex;}
+
+        .content-bio{
+            padding: 10px !important;
+        }
+
+        .left-overlay{
+            left: 0px !important;
+        }
+
+        .pl-5 ,.pr-5{
+            padding: 0px !important;
+        }
+
+        .p-5 {
+            padding: 2rem!important;
+        }
+
+        .social-content .custom{
+            display: inline-flex !important;
+        }
+
+        .modal-content {
+            background: url(../images/bg_pop.png);
+            height: 250px;
+            background-size: contain;
+            background-position: center;
+            background-repeat: no-repeat;
+            border: none;
+        }
+
+        .modal-footer{
+            border: none !important;
+        }
+
+#contentContacto{
+display: flex;
+flex-direction: column-reverse;
+}
+
+.custom-about{
+font-size: 15px !important;
+}
+
+.custom-title{
+text-align: center !important;
+}
+
+.buttons-subject button {
+    width: 100% !important;
+    margin: 10px auto !important;
+}
+
+}
+
+/* ----------- iPhone X ----------- */
+/* Portrait and Landscape */
+@media only (-webkit-min-device-pixel-ratio: 3) {
+
+    .mov{display:block !important;}
+    .desk{display: none !important;}
+    .social-content{background: #fff;
+        -webkit-transform: translateY(-80px);
+        transform: translateY(-40px);
+        padding: 10px 16px;
+        width: 100% !important;
+        display: flex;}
+
+        .content-bio{
+            padding: 10px !important;
+        }
+
+        .left-overlay{
+            left: 0px !important;
+        }
+
+        .pl-5 ,.pr-5{
+            padding: 0px !important;
+        }
+
+        .p-5 {
+            padding: 2rem!important;
+        }
+
+        .social-content .custom{
+            display: inline-flex !important;
+        }
+
+        .modal-content {
+            background: url(../images/bg_pop.png);
+            height: 250px;
+            background-size: contain;
+            background-position: center;
+            background-repeat: no-repeat;
+            border: none;
+        }
+
+        .modal-footer{
+            border: none !important;
+        }
+
+#contentContacto{
+display: flex;
+flex-direction: column-reverse;
+}
+
+.custom-about{
+font-size: 15px !important;
+}
+
+.custom-title{
+text-align: center !important;
+}
+.buttons-subject button {
+    width: 100% !important;
+    margin: 10px auto !important;
+}
+
+
+
+}
+
+/* Portrait */
+@media only screen (-webkit-min-device-pixel-ratio: 3)
+and (orientation: portrait) {
+    .mov{display:block !important;}
+    .desk{display: none !important;}
+    .social-content{background: #fff;
+        -webkit-transform: translateY(-80px);
+        transform: translateY(-40px);
+        padding: 10px 16px;
+        width: 100% !important;
+        display: flex;}
+
+        .content-bio{
+            padding: 10px !important;
+        }
+
+        .left-overlay{
+            left: 0px !important;
+        }
+
+        .pl-5 ,.pr-5{
+            padding: 0px !important;
+        }
+
+        .p-5 {
+            padding: 2rem!important;
+        }
+
+        .social-content .custom{
+            display: inline-flex !important;
+        }
+
+        .modal-content {
+            background: url(../images/bg_pop.png);
+            height: 250px;
+            background-size: contain;
+            background-position: center;
+            background-repeat: no-repeat;
+            border: none;
+        }
+
+        .modal-footer{
+            border: none !important;
+        }
+
+        #contentContacto{
+        display: flex;
+        flex-direction: column-reverse;
+        }
+
+.custom-about{
+font-size: 15px !important;
+}
+
+.custom-title{
+text-align: center !important;
+}
+.buttons-subject button {
+    width: 100% !important;
+    margin: 10px auto !important;
+}
+
+
+}
+
+/* Landscape */
+@media only screen (-webkit-min-device-pixel-ratio: 3)
+and (orientation: landscape) {
+
+    .mov{display:block !important;}
+    .desk{display: none !important;}
+    .social-content{background: #fff;
+        -webkit-transform: translateY(-80px);
+        transform: translateY(-40px);
+        padding: 10px 16px;
+        width: 100% !important;
+        display: flex;}
+    .content-bio{
+        padding: 10px !important;
+    }
+
+    .left-overlay{
+        left: 0px !important;
+    }
+
+    .pl-5 ,.pr-5{
+        padding: 0px !important;
+    }
+
+    .p-5 {
+        padding: 2rem!important;
+    }
+
+    .social-content .custom{
+        display: inline-flex !important;
+    }
+
+    .modal-content {
+        background: url(../images/bg_pop.png);
+        height: 250px;
+        background-size: contain;
+        background-position: center;
+        background-repeat: no-repeat;
+        border: none;
+    }
+
+    .modal-footer{
+        border: none !important;
+    }
+
+#contentContacto{
+display: flex;
+flex-direction: column-reverse;
+}
+.custom-about{
+font-size: 15px !important;
+}
+.custom-title{
+text-align: center !important;
+}
+.buttons-subject button {
+    width: 100% !important;
+    margin: 10px auto !important;
+}
+
+
+}

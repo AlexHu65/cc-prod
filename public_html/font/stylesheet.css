@@ -1,0 +1,67 @@
+@font-face {
+    font-family: 'Bebas Neue';
+    src: url('BebasNeue-Regular.woff2') format('woff2'),
+        url('BebasNeue-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Bebas Bold';
+    src: url('BebasNeueBold.woff2') format('woff2'),
+        url('BebasNeueBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Bebas Neue';
+    src: url('BebasNeue-Regular.woff2') format('woff2'),
+        url('BebasNeue-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Bebas Neue';
+    src: url('BebasNeue-Regular.woff2') format('woff2'),
+        url('BebasNeue-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Bebas Neue';
+    src: url('BebasNeue-Regular.woff2') format('woff2'),
+        url('BebasNeue-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Bebas Neue Book';
+    src: url('BebasNeueBook.woff2') format('woff2'),
+        url('BebasNeueBook.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Nexa Light';
+    src: url('NexaLight.woff2') format('woff2'),
+        url('NexaLight.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Nexa Bold';
+    src: url('NexaBold.woff2') format('woff2'),
+        url('NexaBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+
+
+
